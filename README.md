@@ -53,7 +53,7 @@ I’m an aspiring IT professional seeking an entry-level position where I can ap
 ---
 
 ## Capstone Project: **BrgyExpress**  
-**Role:** Project Team Leader & Full Stack Developer (2025 – 2026)
+**Role:** Project Team Leader (2025 – 2026)
 
 - Developed an integrated mobile and web-based e-governance system for Barangay 73, Caloocan City  
 - Built a React Native mobile app for incident reporting, document requests, and barangay ID applications with real-time tracking  
